@@ -17,7 +17,7 @@ while (isSunk == false) {
     guess = prompt("Ready to Shoot‼️🔫 (Enter number 0-6)");
     // (|| = or)
     if (guess <0 || guess >6 ){
-        alert("Please enter a valid number!")
+        alert("Please enter a valid number‼️")
     } 
     else{
         guesses += 1;
